@@ -5,7 +5,7 @@ The website focuses on learning to build webside using React Context API .
 
 - Context API
 
-## [Live Preview]()
+## [Live Preview](https://basic-theme-switcher.netlify.app/)
 
 ### SnapShot of the Webpage
 
